@@ -1,0 +1,14 @@
+.h1{
+    text-align: center;
+}
+
+.stdimg{
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    height: 200px;
+    width: 200px;
+    background-color: whitesmoke;
+}

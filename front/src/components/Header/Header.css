@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Gudea:400,700);
+
+#Header{
+
+    font-family: 'georgia', sans-serif;
+    font-size: 30px;
+    color: white;    
+    text-align:center;
+    font-style: Bold;
+}
